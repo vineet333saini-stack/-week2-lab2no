@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-loops-functions",
+      "title": "Python Loops & Functions",
+      "description": "Use loops and functions to solve small problems in Python.",
+      "path": "assignments/python-loops-functions",
+      "dueDate": "2026-03-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
